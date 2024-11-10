@@ -15,9 +15,11 @@ Project Proposal Outline
 
    •	Learning Resources: study materials on ARIMA and LSTM models, time series forecasting chapters, and documentation for Python libraries (statsmodels for ARIMA and TensorFlow for LSTM). Relevant research papers include: 
 
-         o	Demand Forecasting for Irregular Demands in Business Aircraft Spare Parts Supply Chains by using Artificial Intelligence (AI). Demand Forecasting for Irregular Demands in Business Aircraft Spare Parts Supply Chains by using Artificial Intelligence (AI) - ScienceDirect.
+         o	Demand Forecasting for Irregular Demands in Business Aircraft Spare Parts Supply Chains by using Artificial Intelligence (AI). Demand Forecasting for Irregular Demands in Business Aircraft Spare Parts Supply
+         Chains by using Artificial Intelligence (AI) - ScienceDirect.
 
-         o	Utilizing machine learning to enhance optimal inventory management : case : aviation industry spart parts. Utilizing machine learning to enhance optimal inventory management : case : aviation industry spart parts - LUTPub.
+         o	Utilizing machine learning to enhance optimal inventory management : case : aviation industry spart parts. Utilizing machine learning to enhance optimal inventory management : case : aviation industry spart parts
+         - LUTPub.
 
          o	An Adaptive Time Series Forecasting Model for Aircraft Component Supply Chain Demand Prediction. demand forecasting aerospace industry using machine learning - Google Scholar.
 
@@ -28,7 +30,7 @@ Project Proposal Outline
 
    •	Computational Resources: Local systems should be sufficient for ARIMA, with optional cloud-based resources (e.g., Google Colab, Google Scholar).
 
-3) Anticipated Deliverables
+4) Anticipated Deliverables
 
    •	Interim Submission: Implementation of the ARIMA model with preliminary results on accuracy, demand predictions, and order quantity suggestions.
 
@@ -86,6 +88,7 @@ Project Proposal Outline
       
       Primary Task: Complete final documentation, detailing model performance and decision-support impact.
       
-      Optional Task (time permitting): Implement a basic LSTM model to compare against ARIMA. This could be a preliminary LSTM model to test feasibility and initial accuracy.
+      Optional Task (time permitting): Implement a basic LSTM model to compare against ARIMA. This could be a preliminary 
+      LSTM model to test feasibility and initial accuracy.
       
       Goal: Submit the final project with completed ARIMA model, analysis, and optional LSTM findings if achievable.
