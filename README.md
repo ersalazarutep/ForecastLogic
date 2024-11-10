@@ -68,17 +68,27 @@ Project Proposal Outline
       Goal: A preliminary ARIMA model with baseline forecasts.
 
   Week 3: Evaluation and Refinement
-      o	Evaluate the ARIMA model’s forecasting accuracy using MAE or MSE.
-      o	Fine-tune ARIMA parameters based on evaluation metrics to improve performance.
-      o	Goal: Finalized ARIMA model with documented performance results and forecasting accuracy.
+      
+      Evaluate the ARIMA model’s forecasting accuracy using MAE or MSE.
+      
+      Fine-tune ARIMA parameters based on evaluation metrics to improve performance.
+      
+      Goal: Finalized ARIMA model with documented performance results and forecasting accuracy.
 
   Week 4: Decision-Making Analysis and Reporting
-      o	Translate the ARIMA model’s forecast output into actionable insights for order quantity decisions.
-      o	Develop a decision-making framework, suggesting how forecast results impact order quantities.
-      o	Prepare interim results and a short report on ARIMA performance and decision insights.
-      o	Goal: Clear analysis and initial report showing ARIMA model’s demand forecasting impact on inventory planning.
+      
+      Translate the ARIMA model’s forecast output into actionable insights for order quantity decisions.
+      
+      Develop a decision-making framework, suggesting how forecast results impact order quantities.
+      
+      Prepare interim results and a short report on ARIMA performance and decision insights.
+      
+      Goal: Clear analysis and initial report showing ARIMA model’s demand forecasting impact on inventory planning.
 
   Week 5: Optional LSTM Model and Finalization
-      o	Primary Task: Complete final documentation, detailing model performance and decision-support impact.
-      o	Optional Task (time permitting): Implement a basic LSTM model to compare against ARIMA. This could be a preliminary LSTM model to test feasibility and initial accuracy.
-      o	Goal: Submit the final project with completed ARIMA model, analysis, and optional LSTM findings if achievable.
+      
+      Primary Task: Complete final documentation, detailing model performance and decision-support impact.
+      
+      Optional Task (time permitting): Implement a basic LSTM model to compare against ARIMA. This could be a preliminary LSTM model to test feasibility and initial accuracy.
+      
+      Goal: Submit the final project with completed ARIMA model, analysis, and optional LSTM findings if achievable.
