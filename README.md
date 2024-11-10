@@ -15,40 +15,57 @@ Project Proposal Outline
 
 5) Resources Needed
 
-     •	Learning Resources: study materials on ARIMA and LSTM models, time series forecasting chapters, and documentation for Python libraries (statsmodels for ARIMA and TensorFlow for LSTM). Relevant research papers include: 
+   •	Learning Resources: study materials on ARIMA and LSTM models, time series forecasting chapters, and documentation for Python libraries (statsmodels for ARIMA and TensorFlow for LSTM). Relevant research papers include: 
 
-       o	Demand Forecasting for Irregular Demands in Business Aircraft Spare Parts Supply Chains by using Artificial Intelligence (AI). Demand Forecasting for Irregular Demands in Business Aircraft Spare Parts Supply Chains by using Artificial Intelligence (AI) - ScienceDirect.
+   o	Demand Forecasting for Irregular Demands in Business Aircraft Spare Parts Supply Chains by using Artificial Intelligence (AI). Demand Forecasting for Irregular Demands in Business Aircraft Spare Parts Supply Chains by using Artificial Intelligence (AI) - ScienceDirect.
 
-       o	Utilizing machine learning to enhance optimal inventory management : case : aviation industry spart parts. Utilizing machine learning to enhance optimal inventory management : case : aviation industry spart parts - LUTPub.
+   o	Utilizing machine learning to enhance optimal inventory management : case : aviation industry spart parts. Utilizing machine learning to enhance optimal inventory management : case : aviation industry spart parts - LUTPub.
 
-       o	An Adaptive Time Series Forecasting Model for Aircraft Component Supply Chain Demand Prediction. demand forecasting aerospace industry using machine learning - Google Scholar.
+   o	An Adaptive Time Series Forecasting Model for Aircraft Component Supply Chain Demand Prediction. demand forecasting aerospace industry using machine learning - Google Scholar.
+
 
    •	Code Resources: Python, using libraries like statsmodels for ARIMA and TensorFlow/Keras for LSTM implementation.
-    •	Data Resources: Historical demand data (from my current forecasts files), with daily or weekly frequency to align with typical inventory cycles.
-    •	Computational Resources: Local systems should be sufficient for ARIMA, with optional cloud-based resources (e.g., Google Colab, Google Scholar).
+
+   •	Data Resources: Historical demand data (from my current forecasts files), with daily or weekly frequency to align with typical inventory cycles.
+
+   •	Computational Resources: Local systems should be sufficient for ARIMA, with optional cloud-based resources (e.g., Google Colab, Google Scholar).
 
 7) Anticipated Deliverables
-    •	Interim Submission: Implementation of the ARIMA model with preliminary results on accuracy, demand predictions, and order quantity suggestions.
-    •	Final Submission: Refined ARIMA results, a trained LSTM model (if feasible), a comparative report on model performance, and an analysis on forecast accuracy and its impact on inventory decisions.
+
+
+   •	Interim Submission: Implementation of the ARIMA model with preliminary results on accuracy, demand predictions, and order quantity suggestions.
+
+   •	Final Submission: Refined ARIMA results, a trained LSTM model (if feasible), a comparative report on model performance, and an analysis on forecast accuracy and its impact on inventory decisions.
 
   Testing and Evaluation Plan: Measure the forecasting accuracy using metrics like Mean Absolute Error (MAE) or Mean Squared Error (MSE). Additionally, I will compare the model order quantities with actual demand to determine its practical decision-support value.
 
 7) Task Breakdown and Timeline
+
     •	Key Deliverables
+
     •	Core Deliverable: A working ARIMA model for demand forecasting, including evaluation and analysis of forecast accuracy.
+
     •	Optional Deliverable: An initial LSTM model if time allows, focusing on testing its baseline performance for comparison.
+
     •	Timeline and Task Breakdown:
 
   Week 1: Data Collection and Preprocessing
-      o	Collect and preprocess the historical demand data.
-      o	Perform data exploration and check for seasonality, trends, and any data anomalies.
-      o	Prepare data in a time series format suitable for ARIMA modeling.
-      o	Goal: Complete a cleaned and well-structured dataset.
+      
+      Collect and preprocess the historical demand data.
+      
+      Perform data exploration and check for seasonality, trends, and any data anomalies.
+      
+      Prepare data in a time series format suitable for ARIMA modeling.
+      
+      Goal: Complete a cleaned and well-structured dataset.
       
   Week 2: ARIMA Model Implementation
-      o	Research ARIMA model parameters (p, d, q) and apply a parameter selection strategy, such as grid search or auto-ARIMA.
-      o	Train and tune the ARIMA model on the prepared dataset.
-      o	Goal: A preliminary ARIMA model with baseline forecasts.
+      
+      Research ARIMA model parameters (p, d, q) and apply a parameter selection strategy, such as grid search or auto-ARIMA.
+      
+      Train and tune the ARIMA model on the prepared dataset.
+      
+      Goal: A preliminary ARIMA model with baseline forecasts.
 
   Week 3: Evaluation and Refinement
       o	Evaluate the ARIMA model’s forecasting accuracy using MAE or MSE.
