@@ -15,13 +15,16 @@ Project Proposal Outline
 
    •	Learning Resources: study materials on ARIMA and LSTM models, time series forecasting chapters, and documentation for Python libraries (statsmodels for ARIMA and TensorFlow for LSTM). Relevant research papers include: 
 
-         o	Demand Forecasting for Irregular Demands in Business Aircraft Spare Parts Supply Chains by using Artificial Intelligence (AI). Demand Forecasting for Irregular Demands in Business Aircraft Spare Parts Supply
-         Chains by using Artificial Intelligence (AI) - ScienceDirect.
+         o	Demand Forecasting for Irregular Demands in Business Aircraft Spare Parts Supply Chains by using
+         Artificial Intelligence (AI). Demand Forecasting for Irregular Demands in Business Aircraft
+         Spare Parts Supply Chains by using Artificial Intelligence (AI) - ScienceDirect.
 
-         o	Utilizing machine learning to enhance optimal inventory management : case : aviation industry spart parts. Utilizing machine learning to enhance optimal inventory management : case : aviation industry spart parts
-         - LUTPub.
+         o	Utilizing machine learning to enhance optimal inventory management : case : aviation industry spart
+         parts. Utilizing machine learning to enhance optimal inventory management : case : aviation industry
+         spart parts - LUTPub.
 
-         o	An Adaptive Time Series Forecasting Model for Aircraft Component Supply Chain Demand Prediction. demand forecasting aerospace industry using machine learning - Google Scholar.
+         o	An Adaptive Time Series Forecasting Model for Aircraft Component Supply Chain Demand Prediction.
+         demand forecasting aerospace industry using machine learning - Google Scholar.
 
 
    •	Code Resources: Python, using libraries like statsmodels for ARIMA and TensorFlow/Keras for LSTM implementation.
